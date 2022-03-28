@@ -8,7 +8,7 @@ import javax.swing.JFrame;
  *
  * @author Álvaro
  */
-public class tarea1GUIAlvaro {
+public class Test {
 
     public static void main(String[] args) {
         // EJEMPLO SENCILLO
