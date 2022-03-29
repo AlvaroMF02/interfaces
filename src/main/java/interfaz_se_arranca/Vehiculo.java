@@ -41,7 +41,7 @@ public abstract class Vehiculo implements SeArranca,SePara,Comparable<Vehiculo>{
     
     
     
-    public int compareTo(Vehiculo v){       //terminar compareto
+    public int compareTo(Vehiculo v){
         return this.matricula.compareTo(v.matricula);
     }
 
